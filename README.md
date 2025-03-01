@@ -23,8 +23,7 @@ Studied the characteristics of different clusters
 Derived meaningful insights based on segmentation
 
 # Dataset Details
-The dataset consists of health attributes relevant to women
-Additional attributes such as Menopause, Menstrual Irregularities, PCOS, and Pregnancy Status will be considered for future updates
+The dataset consists of health attributes relevant to women like age, blood pressure, blood sugar, bmi, diabetes, mental health, PCOS, menstrual irregularities, etc.
 
 # Tech Stack
 Python
