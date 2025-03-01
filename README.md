@@ -1,19 +1,19 @@
 # FemCare Insights
 
-# Project Overview:
+# Project Overview
 FemCare Insights is a project focused on analyzing women's health data using clustering techniques to provide meaningful insights. It utilizes Hierarchical Clustering and Gaussian Mixture Models (GMMs) to group individuals based on their health needs and patterns, helping in better understanding different health conditions.
 
-# Features:
+# Features
 Segmentation of health profiles using clustering models
 Identification of key health trends and personalized insights
 Data-driven approach to analyzing women's health
 
-# Methodology:
+# Methodology
 Data Collection and Preprocessing
 Cleaned and structured dataset
 Incorporated relevant women's health attributes
 
-# Feature Selection:
+# Feature Selection
 Identified key parameters influencing health segmentation
 Clustering Implementation
 Used Hierarchical Clustering and GMMs for segmentation
